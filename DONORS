@@ -1,140 +1,143 @@
-cocos2d for iPhone donors:
---------------------------
+The process will be the same as our current process for upgrading the MicroStrategyLibrary.
+I have found the official guidelines for upgrading the MicroStrategyLibrary.  https://www2.microstrategy.com/producthelp/11.0/UpgradeGuide/WebHelp/Lang_1033/Content/UpgradeGuide/upgrade_library.htm
+ 
+Just need to be careful to backup users’ configuration files like configOverride.properties, configDefault.properties….
+And it should be easy and safe.
+ 
+ 
+ 
+From: "Li, Yan (Peter Lee)" <yali@microstrategy.com>
+Date: Friday, May 3, 2019 at 2:43 PM
+To: "Xu, Jiao" <jiaoxu@microstrategy.com>, "Boysko, Glenn" <boysko@microstrategy.com>, "Nocedal, Jose" <jnocedal@microstrategy.com>
+Cc: "de Leon, Raul" <rdeleon@microstrategy.com>, "Reidway, William" <wreidway@microstrategy.com>, "Chen, Liang (IS)" <lichen@microstrategy.com>, "Dong, Ting" <tdong@microstrategy.com>, "Myers, Clayton" <cmyers@microstrategy.com>, "Punnoose, Don" <dpunnoose@microstrategy.com>, "Carranza, Eduardo" <carranza@microstrategy.com>, "Gowravaram, Mayur Reddy" <mgowravaram@microstrategy.com>, "Zeng, Jinliang" <jzeng@microstrategy.com>
+Subject: Re: How to deliver Library server updates needed for Hyper?
+ 
+Hello Jiao,
 
-Special thanks for his generous donation to:
- - John E. Hartzog (http://johnehartzog.com/)
- - Kirakorn Chimkool (http://www.kiragames.com/)
- - Eric Schurter (http://www.capitalone.com/)
- - New Toy (http://newtoyinc.com/)
- - Romain Nouzareth (http://freshplanet.com)
- - Jeremy Stone (http://folderapp.blogspot.com)
- - Patrick Corrieri (http://cleverhamstergames.com)
- - Turtle Rock Studios (http://www.turtlerockstudios.com)
- - Theodore Gray (http://periodictable.com)
- - Game Doctors (http://www.gamedrs.com)
- - Matt Rix (http://struct.ca/)
- - Get Set Games (http://getsetgames.com)
+ 
 
-Donors Alphabetically ordered:
+Thanks for the confirmation of patching Library Server.
 
-Abel, Pierre (http://lescapadou.com)
-AFKSoft (http://www.afksoft.com/)
-小野 将司
-Alexander, Edward
-Alexeev, Andrei
-Amiri, Hesham (http://www.amiri.info/)
-Apple, Jonathan (http://www.jonathanapple.com/)
-Andrle, Tomas (http://www.catnapgames.com/)
-Azzoug, Adam
-Barreto, Leandro (http://www.leandro.co.uk)
-Barta, Markus (http://markus.barta.com)
-Berry, Sean
-Brain Fever Music (http://www.brainfevermedia.com/)
-Braunstein, Roger
-Bratton, Erich (http://bratton.com/)
-Braunstein, Roger (http://partlyhuman.com/)
-Busse, Thomas
-Celeski, Sanjin (http://www.rastafungame.com)
-Chei Hoon Ker
-Cooper, Neil
-Copsey, Ben (http://allseeing-i.com/)
-Da Silva, Vitor Almedia (http://myplaymobile.com/)
-Daley, Michael (http://particledesigner.71squared.com/)
-Dash Technologies (http://http://www.pyramidtosser.com/)
-David from Little Lumnes (http://www.littlelumens.com)
-Davidenko, Israel
-Delorenzi, Tom (http://www.greyhoundgames.com)
-Detsikas, Nikolaos (http://kommati.gr/)
-Donoma Games (http://www.donomagames.com)
-Ehnbom, Andreas (http://www.fujileaves.com/)
-Farraro, Eric
-Fedoseev, Evgeniy (http://redballstudio.com/)
-Grassi, Stefano
-Hathway, John
-Hoffmann, Martin (http://keinebilder.de/)
-Homes, Avi
-Hsiao Wei Chen
-I WEN KAO
-Irmak, Özden (http://www.klikgames.net/)
-Instant Games (http://www.instantgames.com.br/)
-Isaak, Josh (http://www.futurebot.com)
-Itterheim, Steffen (http://www.gametooldeveloper.com/)
-Khoo, Benny
-KLICKTOCK PTY LTD (http://www.klicktock.com/)
-Kostjens, Barry (http://www.pushpanic.com/)
-Koutavas, Jay (http://heynow.com/)
-Kovalishin, Andrey (http://http://hunter-hamster.com/)
-Georgiadis, Dionisis
-Guitarra del Sur (http://www.guitargame.net)
-Gulley, Dustin
-Greer, Matthew (http://github.com/city41/cocosnet)
-Halverson, Gene (http://www.littledogmedia.com)
-Huffstatler, Phil
-Jacoby, James
-Jaskiewicz, Grzegorz
-Jiang, Yaokai
-Lanzi, Joe (http://appcone.com/)
-Launching Pad Games (http://launchingpadgames.com/)
-Lazarevic, Dusan (http://www.4iphone4.me/)
-Loukeris, Ioannis (http://www.inomercy.com)
-Loyer, Erik (http://erikloyer.com/)
-Maher, Sean (http://smasher.com/)
-McNamee, Thomas
-Meach, Gregory (http://meachware.com/)
-Mengelt, Mark (http://www.mengelt.com)
-Menni, Philip (http://www.forestfolk.net/)
-Mission One, LLC (http://mission-one.jp/)
-Mobile-Bros, LLC (http://www.mobile-bros.com)
-Morrison, Tyler (http://www.haikusoftware.com)
-Murff, James (http://www.deedogdevelopment.com/)
-Newman, Michael (http://www.bigduckgames.com/)
-Norris, Eoin
-Oestermeier, Uwe
-P-Edge Media (http://www.p-edge.nl/)
-Packt Publishing (http://packtpub.com)
-Pavley, John (http://www.pavley.com/)
-Payne, Robert (http://zwopple.com)
-Périer, Sébastien (http://www.sperier.com)
-Pritchard, Jason
-Prop Group (http://www.prop.gr)
-Quantum Blue, Inc (http://qblueinc.com)
-Razma, Rolandas
-Revolti, James (http://www.novasoftware.com.br/)
-Rios, Conlan (http://www.conlanrios.com)
-Rix, Matt (http://twitter.com/MattRix)
-Roach, David (http://www.creativeclasssoftware.com)
-Roberts, Gordon (http://gordonroberts.net)
-Roselieb, Matthias
-Rousseau, Alexandre (http://www.ninermedia.com)
-S A Jenkins
-Sangwoo Im (http://www.sangwooim.name/)
-Sephton, Matt (http://www.gingerbeardman.com)
-Shawnsbits LLC (http://www.shawnsbits.com)
-Shapiro, Scott
-Skaflotten, Stein Roger
-Spiro Graphics
-Tang, Brian (http://www.codeplaystudios.com/)
-Tear, John
-Thoroddsen, Karl
-Tillack, Heinrich
-Tolbert, Marc
-Ton-That, Hoan (http://www.happyappyinc.com)
-Valleau, Tracy (http://www.tracyvalleau.com/)
-Vecchi, Vinicius
-Voss, Moritz (http://moritzvoss.de)
-Web-Geeks (http://www.web-geeks.com)
-Wenderlich, Ray (http://www.raywenderlich.com/)
-Whatley, David (http://www.criticalthoughtgames.com)
-Wright, Ginsberg N.
-Yang, Peng-Hua
-Yellott, John (http://www.dreamforgeentertainment.com/)
-Yip, Alex (http://www.zenkimoto.com/)
-Zedfast Solutions Corp (http://zedfast.com/)
-Zemlyanov, Anton
+ 
 
+Replace WAR file equals to upgrade Library Server, correct? (comparing to "patch")
 
-Thank you!
+Is replacing WAR file, easy and safe to do? Do you foresee any problem with replacing WAR file?
 
+ 
 
-Do you want to donate ? Click here:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3316057
+Thanks
+
+Yan
+
+From: Xu, Jiao
+Sent: Friday, May 3, 2019 2:26:09 PM
+To: Li, Yan (Peter Lee); Boysko, Glenn; Nocedal, Jose
+Cc: de Leon, Raul; Reidway, William; Chen, Liang (IS); Dong, Ting; Myers, Clayton; Punnoose, Don; Carranza, Eduardo; Gowravaram, Mayur Reddy; Zeng, Jinliang
+Subject: Re: How to deliver Library server updates needed for Hyper?
+ 
+Comparing replacing the whole war file and just replacing rest server jar, restful-api-1.0-SNAPSHOT-jar-with-dependencies.jar
+As there are also WebApp*.jar under lib folder, which also packed in the fat jar restful-api-1.0-SNAPSHOT-jar-with-dependencies.jar, the change will make them inconsistent.
+We have also changed some configurations files like the files under WEB-INF/classes/auth
+There may be other files we need to update to make them consistent, or it will cause unexpected error.
+ 
+As we have done many changes since last release, it is not easy to list all the files needed to replace, or at last actually we have replaced all the files.
+So I would suggest to replace the whole war file, it could also be done in the install process.
+ 
+From: "Li, Yan (Peter Lee)" <yali@microstrategy.com>
+Date: Friday, May 3, 2019 at 1:54 PM
+To: "Boysko, Glenn" <boysko@microstrategy.com>, "Nocedal, Jose" <jnocedal@microstrategy.com>, "Xu, Jiao" <jiaoxu@microstrategy.com>
+Cc: "de Leon, Raul" <rdeleon@microstrategy.com>, "Reidway, William" <wreidway@microstrategy.com>, "Chen, Liang (IS)" <lichen@microstrategy.com>, "Dong, Ting" <tdong@microstrategy.com>, "Myers, Clayton" <cmyers@microstrategy.com>, "Punnoose, Don" <dpunnoose@microstrategy.com>, "Carranza, Eduardo" <carranza@microstrategy.com>, "Gowravaram, Mayur Reddy" <mgowravaram@microstrategy.com>, "Zeng, Jinliang" <jzeng@microstrategy.com>
+Subject: Re: How to deliver Library server updates needed for Hyper?
+ 
+Hello Glenn,
+ 
+Thanks for following up.
+As Jiao mentioned previously, it isn’t hard to replace the JAR file for patching RESTful APIs. For #1, it might also be feasible in Q2 to do patch for REST APIs.
+ 
+@Xu, Jiao Can you double confirm?
+ 
+Thanks,
+Yan Li (Peter)
+ 
+From: "Boysko, Glenn" <boysko@microstrategy.com>
+Date: Friday, May 3, 2019 at 13:47
+To: "Li, Yan (Peter Lee)" <yali@microstrategy.com>, "Nocedal, Jose" <jnocedal@microstrategy.com>
+Cc: "de Leon, Raul" <rdeleon@microstrategy.com>, "Reidway, William" <wreidway@microstrategy.com>, "Xu, Jiao" <jiaoxu@microstrategy.com>, "Chen, Liang (IS)" <lichen@microstrategy.com>, "Dong, Ting" <tdong@microstrategy.com>, "Myers, Clayton" <cmyers@microstrategy.com>, "Punnoose, Don" <dpunnoose@microstrategy.com>, "Carranza, Eduardo" <carranza@microstrategy.com>, "Gowravaram, Mayur Reddy" <mgowravaram@microstrategy.com>, "Zeng, Jinliang" <jzeng@microstrategy.com>
+Subject: Re: How to deliver Library server updates needed for Hyper?
+ 
+Peter:
+ 
+I spoke with Jose about this. The patch proposal is not going to be an easy change. The questions you raise make it clear that it requires careful thought. I don’t think it can be implemented in Q2. If I were to answer what I thought I’d say:
+ 
+I don’t think that a Patched Library Server will have all of the latest APIs as if it was a fresh install. The reason I say this is that it is going to easier to patch some aspects of the WAR file over others. For example, I think it will be easier to patch the static resources than to patch the REST API endpoints. If we applied a patch, I believe it should be limited to static resources.
+Based on #1, the /status endpoint would not likely change. It is possible that we augment it for a new number (we use MAJOR.MINOR.HOTFIX.BUILD currently, but could add: a PATCH version after BUILD).
+ 
+What does this mean? Well, if we did allow a patch, the Outlook Add-in would still depend on the endpoints of the target REST API server. This means that the plugin source code needs to be as flexible as it can w.r.t. to the REST API version.
+ 
+For the Hyper Outlook Plugin, in particular, it is not clear to me that we need to support a version older than 11.1.2. Jose: are you still waiting to hear that answer back from the Executive Mgmt team?
+
+Regards,
+Glenn
+ 
+From: "Li, Yan (Peter Lee)" <yali@microstrategy.com>
+Date: Friday, May 3, 2019 at 12:08 PM
+To: "Nocedal, Jose" <jnocedal@microstrategy.com>
+Cc: "Boysko, Glenn" <boysko@microstrategy.com>, "de Leon, Raul" <rdeleon@microstrategy.com>, "Reidway, William" <wreidway@microstrategy.com>, "Xu, Jiao" <jiaoxu@microstrategy.com>, "Chen, Liang (IS)" <lichen@microstrategy.com>, "Dong, Ting" <tdong@microstrategy.com>, "Myers, Clayton" <cmyers@microstrategy.com>, "Punnoose, Don" <dpunnoose@microstrategy.com>, "Carranza, Eduardo" <carranza@microstrategy.com>, "Gowravaram, Mayur Reddy" <mgowravaram@microstrategy.com>, "Zeng, Jinliang" <jzeng@microstrategy.com>
+Subject: Re: How to deliver Library server updates needed for Hyper?
+ 
+Hello Jose,
+ 
+Can you confirm  my two question regarding patched Library Server?
+ 
+Thanks,
+Yan Li (Peter)
+ 
+From: "Li, Yan (Peter Lee)" <yali@microstrategy.com>
+Date: Thursday, May 2, 2019 at 06:38
+To: "Nocedal, Jose" <jnocedal@microstrategy.com>
+Cc: "Boysko, Glenn" <boysko@microstrategy.com>, "de Leon, Raul" <rdeleon@microstrategy.com>, "Reidway, William" <wreidway@microstrategy.com>, "Xu, Jiao" <jiaoxu@microstrategy.com>, "Chen, Liang (IS)" <lichen@microstrategy.com>, "Dong, Ting" <tdong@microstrategy.com>, "Myers, Clayton" <cmyers@microstrategy.com>, "Punnoose, Don" <dpunnoose@microstrategy.com>, "Carranza, Eduardo" <carranza@microstrategy.com>, "Gowravaram, Mayur Reddy" <mgowravaram@microstrategy.com>, "Zeng, Jinliang" <jzeng@microstrategy.com>
+Subject: Re: How to deliver Library server updates needed for Hyper?
+ 
+Hello Jose,
+ 
+I’m not sure whether I get the conclusions correctly, can you double confirm following questions?
+ 
+- Patched Library Server will have all latest APIs as well as Hyper Outlook add-in resources, it will behave same as fresh install of latest Library Server.
+- Patched Library Server’s /api/status will return version number like 11.1.2.xxxx or 11.1.2xx.xxxx which indicates it has APIs we added for Hyper.
+ 
+I included Mayur and Andrew in the thread.
+ 
+Sincerely,
+Yan Li
+
+On May 1, 2019, at 12:34, Reidway, William <wreidway@microstrategy.com> wrote:
+
+Jose - received. We will make certain the processes are in place to cover licensing on previous versions according to the below. Eduardo/Michal, please let us know where you end up with Office?  Thanks,
+ 
+Bill
+
+Sent from my iPhone
+
+On Apr 30, 2019, at 9:10 PM, Nocedal, Jose <jnocedal@microstrategy.com> wrote:
+
+Hi guys,
+ 
+Today we had a meeting with Tim to  discuss compatibility requirements for new Hyper products, specifically for the Outlook add-in. The two main questions were:
+ 
+If we need Library  11.1.2 to be able to make the add-in work, should we force our users to upgrade the Library server? If so, what is  the way to upgrade? It could be  a full  war file deployment or just a patch as we discussed previously.
+The conclusion is that we need to help our customers to get their the Library  server changes that the add-in requires deployed in their environments but we should make that really easy. Basically, we should be able to patch the deployment but via an installer. @Myers, Clayton is this something we have done before? The idea would be to have in the installer a section that would be ‘Hyper and Application updates’ (wording will definitely change) and that will patch the webapp with the required changes. This will not be simple as we  would either need to backup everything, add the new files, package it again and deploy it OR make changes to the live deployment  which might  have some security implications. We should talk about our options here and also needed capacity  but I just wanted to start the conversation asap.
+@Punnoose, Don @Dong, Ting this means we will have support this configuration = Library server patched version + 2019 Iserver.
+ 
+What about licenses if we have to support  the above?
+We will deal with that on a case by  case basis but if we are connecting to an Iserver where the privileges for the new product do not exist, we will just default to sending Library web as the application type and it should work. @Li, Yan (Peter Lee) @Chen, Liang (IS)  we should consider that case.  @Reidway, William this should answer the question we had pending.
+Also,  we need to make sure that in Workstation we cannot generate the xml file if the Library server version, including the patch, is not the right one.
+ 
+ 
+@Carranza, Eduardo I think the above should also apply to the MSTR Office add-in.
+ 
+ 
+Thanks
+Jose
+ 
+ 
